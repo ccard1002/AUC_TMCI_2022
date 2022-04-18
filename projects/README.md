@@ -7,9 +7,9 @@ The project is the main grading item of the course. It will allow you to choose 
 ## Timeline
 
 * **February 7** Guidelines and default project ideas out. Group formation opens on Canvas (you can self-organize, groups are capped to 3). Proposals for custom projects are encouraged.
-* **March 24** Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
-* **April 11** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
-* **April 28** Project update 1 (see below for guidelines).
+* **April 14** Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
+* **April 21** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
+* **May 9** Project update 1 (see below for guidelines).
 * **May 19** Project update 2 (see below for guidelines).
 * **May 29 (23:59 CEST)** Project due for all groups.
 * **May 30-June 2** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
@@ -27,17 +27,19 @@ The project is the main grading item of the course. It will allow you to choose 
 ## Set-up
 
 1. [Repository README template](README_template.md).
-2. [Some datasets you can consider](https://docs.google.com/spreadsheets/d/11hCXmGfZBLx1-JPmtaWGv9PutuN7H2mEA35RmqdvDCU/edit?usp=sharing).
+2. [Some datasets you can consider](https://docs.google.com/spreadsheets/d/1DxHczqrAxlip1mA51BYSpygUrrNpiB1CaV3eiUC0DBs/edit?usp=sharing).
 3. List of list of datasets:
     * https://github.com/niderhoff/nlp-datasets
     * https://github.com/karthikncode/nlp-datasets
     * https://github.com/awesomedata/awesome-public-datasets#naturallanguage
     * https://www.cooldatasets.com/
     * https://www.kaggle.com/datasets
+    * https://en.wikipedia.org/wiki/List_of_text_corpora
+    * https://neerlandistiek.nl/2018/09/de-beste-digitale-taalbronnen/
 4. [Default project ideas](default_project_ideas.md).
 5. Example projects. Please keep in mind some of these are from courses at the master level: do get inspired, but do not get worried.
     * [Projects from the previous-year edition](https://github.com/Giovanni1085/AUC_TMCI_2021)
-    * [Projects from 2020 edition](https://github.com/Giovanni1085/AUC_TMCI_2020)
+    * [Projects from 2019 edition](https://github.com/Giovanni1085/AUC_TMCI_2019)
     * https://dlab.epfl.ch/teaching/fall2018/cs401/reports
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433
     * http://web.stanford.edu/class/cs224n/project.html
