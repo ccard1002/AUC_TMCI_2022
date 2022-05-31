@@ -2,6 +2,8 @@
 
 The project is the main grading item of the course. It will allow you to choose a dataset and question of interest, and run an analysis all the way to communicating its results. A project should be an analysis of a question or topic of interest, using text data. You can use the techniques we have seen in class and/or others as well. 
 
+**The AUC Code of Conduct applies to this assignment: please only submit your group's work and reference sources where applicable.**
+
 *Each group must have a GitHub (or GitLab) repository and use it to provide regular updates (see below).*
 
 ## Timeline
@@ -11,8 +13,8 @@ The project is the main grading item of the course. It will allow you to choose 
 * **April 21** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
 * **May 9** Project update 1 (see below for guidelines).
 * **May 19** Project update 2 (see below for guidelines).
-* **May 29 (23:59 CEST)** Project due for all groups.
 * **May 30-June 2** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
+* **June 3 (23:59 CEST)** Project due for all groups.
 
 ## Practicalities
 
@@ -23,6 +25,25 @@ The project is the main grading item of the course. It will allow you to choose 
 * **Logistics**: you must create your project's GitHub (or GitLab) repository and work there (one of you uses their account and the others are invited as collaborators). This will help you start your project portfolio online.
 * **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Groups should use a GitHub *issue* for every separate update, and add links to code or data where applicable. I will reply there. *You must submit updates, please do not have me chase you*: this is not optional and will influence your grade.
 * **Final submission**. You are expected to **submit a public URL to your repository**, containing the following: a short **report** (4-page maximum, excluding references), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (all this with a link to your repository). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be updated after the group presentation, but should be in the repo at submission time.*
+
+## Presentation
+
+For the grading of the presentations, I will pay attention to the following points:
+
+### Content
+
+* Presentation of the background to your project
+* Presentation of your key findings
+* Critical appraisal of your project and results
+* Presentation of the connection of your project to the course's topics
+
+### Delivery
+
+* Clarity
+* Pacing (and time limit)
+* Use of visual aids (slides etc.)
+* Ability to engage the audience
+* Ability to respond to questions (discussion)
 
 ## Set-up
 
@@ -44,4 +65,31 @@ The project is the main grading item of the course. It will allow you to choose 
     * https://www.epfl.ch/labs/mlo/machine-learning-cs-433
     * http://web.stanford.edu/class/cs224n/project.html
 6. [Report template](report/): A 4-page, double-column PDF report (4 pages excluding references), following a standard structure (where applicable): abstract, introduction, related work, (brief) data collection, dataset description with summary statistics, methods with math and description of main algorithms, results and findings, conclusions. This report will be evaluated according to how clearly and succinctly it is written, if the style is appropriate (e.g., figures with captions), if it contains all relevant contents, and how solid the results are.
+
+## Project grading
+
+For the grading of the final projects, I will pay attention to the following points:
+
+### Code and repository
+* Does it run and properly load all its dependencies? Did you use relative paths so that others can run the code?
+* Is your code readable (well-commented, well-structured with functions or code blocks) and documented, similar to the assignments?
+* Is your data well-structured and documented, if applicable?
+* Did you reference external resources where necessary?
+* Is the readme informative?
+
+### Report
+
+* **Author contributions**: Did you indicate who contributed what, and was this an effective division of tasks?
+* **Background**: Does the problem and goal of the project become clear? Is the background information correct and would your classmates understand it?
+* **Quality of the specific research question**: Is the question or topic addressed in the project related to text mining and can it be addressed by methods we learned about in the course?
+* **Method and data**: Does the described approach/approaches effectively address (part of) the research question or problem? Are concrete enough details provided about the dataset(s) and methods(s) (algorithms, libraries) that you used? Are the essential properties of your dataset and how you collected it clearly described? Is there enough information that someone could reproduce the results of your project independently? Do you describe an effective validation/evaluation of your method?
+* **Results**: Are the results well analysed, evaluated and presented?
+* **Conclusions**: Are the results accurately summarized? Did you critically reflect upon your results? Are open issues and future work well covered?
+* **Original contribution**: Did you find the academic literature that is the most similar to what you are doing? What is the novelty of your proposal compared to what is described in the literature (gap in the literature), and does the report make this clear without overselling your idea?
+
+* **Clarity of expression**: Is the language in the report precise and accurate? Are you writing in an academic style/register while still remaining clear and not overusing jargon or uncommon/specific words?
+* **Figures/graphs/tables**: If relevant, are they properly used?
+* **Supplementary materials**: Does your report reference elements from your repository when appropriate?
+* **Structure**: Are all the aspects of the standard structure (if applicable) correctly included and is the report well-structured?
+
 
